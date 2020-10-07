@@ -1,7 +1,11 @@
+import Section from '../components/section/section';
+
 export default function Home() {
   return (
     <div>
-      Hello world
+      <Section>
+        Web design and development for the 21st-century entrepreneur.
+      </Section>
     </div>
   )
 }

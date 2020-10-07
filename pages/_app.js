@@ -1,3 +1,4 @@
+
 import styles from '../styles/styles.scss';
 
 function MyApp({ Component, pageProps }) {
