@@ -35,3 +35,6 @@ yarn-error.log*
 
 # VS Code workspace
 kevinquan.code-workspace
+
+# test pages
+pages/test.js
